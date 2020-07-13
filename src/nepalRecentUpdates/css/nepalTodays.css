@@ -1,0 +1,48 @@
+.ant-page-header-heading-extra {
+    margin-top: 10px !important;
+}
+
+/* Covid Card Left Section */
+
+/* Today's Data Section */
+.todaysData-section-header {
+    background: transparent;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Situation Report and Self Assesment Section */
+
+.situation-report-section {
+    /*background-color: #608491;*/
+    background: #4172A5;
+}
+
+.self-assessment-section {
+    /*background-color: #026440;*/
+    background: #16817A;
+}
+
+.situation-report-section,
+.self-assessment-section {
+    /*padding-left: 0 !important;*/
+    margin-top: 20px;
+    padding: 2px 20px 2px 20px !important;
+}
+
+.situation-report-section .ant-page-header-heading-title,
+.self-assessment-section .ant-page-header-heading-title {
+    font-size: 12px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.situation-report-section .anticon-download {
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.self-assessment-section .anticon-play-circle {
+    font-size: 18px;
+    color: #ffffff;
+}

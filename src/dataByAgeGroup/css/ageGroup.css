@@ -1,0 +1,10 @@
+.ageGroup-section .ant-card-head {
+    background: rgb(22,129,122) !important;
+    color: #ffffff !important;
+}
+
+.ageGroup-section .ageGroup-card {
+    box-shadow: 0 0 30px #f3f1f1;
+    border: none;
+}
+

@@ -1,0 +1,17 @@
+.totalData-section-header {
+    padding-left: 0;
+    background: transparent;
+    padding-right: 0;
+}
+
+/* Test card section eg: PCR, RDT, Quarantine, Isolation */
+.test-card-section .ant-card {
+    border: none !important;
+    background-color: #CCE6E4;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.test-card-section .ant-card-body {
+    padding: 11px 24px 11px 24px;
+}
